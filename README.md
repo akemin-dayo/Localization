@@ -1,4 +1,4 @@
 Localization
 ============
 
-Localizations of various things.
+This Git repo contains localization files for various projects.
